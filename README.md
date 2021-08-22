@@ -11,3 +11,5 @@
 - [Средняя температура](temperature.cpp)
 - [Масса блоков](blocks_weight.cpp)
 ### Кортежи и пары
+- [База регионов](find_max_repetition_count.cpp)
+- [Трекер задач](team_tasks.cpp)
